@@ -15,5 +15,8 @@
   "type": "module",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security"
   }
 }
